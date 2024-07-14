@@ -1,0 +1,20 @@
+.recoumented{
+    flex-basis: 30%;
+}
+.side-vides-list{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+.side-vides-list img{
+    flex-basis: 49%;
+    width: 50%;
+}
+.vides-info{
+    flex-basis: 49%;
+
+}
+.vides-info h4{
+    font-size: 13px;
+    margin-bottom: 5px;
+}
